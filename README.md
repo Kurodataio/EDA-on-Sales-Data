@@ -85,7 +85,7 @@ Instructions for using the project:
 
 Include screenshots of your visualizations if available:  
 
-![Sales by Region](Sales_by_Region.png)  
+![Sales vs Profit with Regression Line](images/Sales-vs-Profit_with_Regression_Line.png) 
 
 ---
 
@@ -94,7 +94,7 @@ Include screenshots of your visualizations if available:
 Summarize your findings, insights, and visualizations:
 
 - Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables  ![Sales by Region](Sales_by_Region.png) 
+- Show charts, graphs, and tables  ![Sales vs Profit with Regression Line](images/Sales-vs-Profit_with_Regression_Line.png) 
 - Include important observations or correlations found in the data  
 
 ---
