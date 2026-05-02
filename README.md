@@ -1,8 +1,10 @@
 # EDA-on-Sales-Data Project
 
- The project is to conduct an  Exploratory Data Analysis (EDA) on Retail Chain Sales Data 
+ The project is to conduct an  Exploratory Data Analysis (EDA) of GlobalMart's Retail Chain Sales Data 
 
-[Notebook Link](https://github.com/Kurodataio/EDA-on-Sales-Data/blob/main/EDA on Sales Data.ipynb)  
+ GlobalMart is a large international retail chain. The company wants to understand its sales performance across different regions, product categories, and time periods.
+
+[Notebook Link](https://github.com/Kurodataio/EDA-on-Sales-Data/blob/main/EDA-on-Sales-Data.ipynb)  
 
 ---
 
@@ -22,29 +24,25 @@ S
 
 ## Overview
 
-- **Motivation:** Why did you choose this dataset or problem?  
-- **Objective:** What question(s) are you trying to answer through this analysis?  
-- **Learning Outcomes:** What did you learn while working on this project?  
+ The task is to perform an exploratory data analysis on the company's sales data to uncover insights that can drive business decisions.
 
 ---
 
 ## Dataset
 
-Provide details about the dataset used:
-
-- Source of the dataset (link if available)  
-- Size of the dataset (# of rows and columns)  
-- Key features/columns used  
-- Any preprocessing or cleaning steps  
+- Source of the dataset is 'Global_Superstore.csv' and sourced from ITOnlinelearning/Kaggle 
+- The dataset 1000 rows and 24 columns/features
+- Key features/columns are Product name,, Sale , Quantity, Category, Region, Segment
+- The Postal code feature was dropped due to missing values of 80% of the dataset
+- Duplicated rows, valid feature types such as dates where checked
 
 ---
 
 <h2>Technologies Used</h2>
 
 <ul>
-  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, SQL, Matplotlib, Seaborn</li>
+  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodel</li>
   <li><strong>Tools:</strong> Jupyter Notebook, VS Code, Git, GitHub</li>
-  <li><strong>Data Visualization:</strong> Power BI / Tableau (if applicable)</li>
 </ul>
 
 <p>
@@ -53,8 +51,9 @@ Provide details about the dataset used:
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
-</p>
+  <img src="https://img.shields.io/badge/Statsmodels-1A6E9A?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels">
 
+</p>
 ---
 
 ## Installation
@@ -64,13 +63,10 @@ Step-by-step instructions to set up the project locally:
 ```bash
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Kurodataio/EDA-on-Sales-Data.git
 
 # Navigate to the project folder
-cd YOUR_REPO
-
-# Install dependencies
-pip install -r requirements.txt
+cd EDA-on-Sales-Data
 
 # Launch Jupyter Notebook
 jupyter notebook
@@ -82,13 +78,13 @@ jupyter notebook
 
 Instructions for using the project:
 
-1. Open the main notebook (`analysis.ipynb`)  
+1. Open the main notebook (`EDA-on-Sales-Data.ipynb`)  
 2. Run each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
 
 Include screenshots of your visualizations if available:  
 
-![Visualization Example](assets/images/screenshot.png)  
+![Sales by Region](Sales_by_Region.png)  
 
 ---
 
@@ -97,7 +93,7 @@ Include screenshots of your visualizations if available:
 Summarize your findings, insights, and visualizations:
 
 - Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables  ![Graph](img1.png)
+- Show charts, graphs, and tables  ![Sales by Region](Sales_by_Region.png) 
 - Include important observations or correlations found in the data  
 
 ---
@@ -113,15 +109,14 @@ Summarize your findings, insights, and visualizations:
 
 ## Credits
 
-- **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)  
-- **Dataset Source:** [Link](https://link-to-dataset.com)  
-- **Tutorials / References:** [Link](https://link.com)  
+- **Tutorials / References:** ITOnlinelearning.com 
+- **Dataset Source:** ITOnlinelearning.com 
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) – feel free to use and modify it.  
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) 
 
 ---
 
