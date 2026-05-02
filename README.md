@@ -9,7 +9,7 @@
 ---
 
 ## Table of Contents
-S
+
 - [Overview](#overview)  
 - [Dataset](#dataset)  
 - [Technologies Used](#technologies-used)  
@@ -30,8 +30,8 @@ S
 
 ## Dataset
 
-- Source of the dataset is 'Global_Superstore.csv' and sourced from ITOnlinelearning/Kaggle 
-- The dataset 1000 rows and 24 columns/features
+- Source of the dataset is **'Global_Superstore.csv'** and sourced from ITOnlinelearning/Kaggle 
+- The dataset has **1000 rows and 24 columns/features**
 - Key features/columns are Product name,, Sale , Quantity, Category, Region, Segment
 - The Postal code feature was dropped due to missing values of 80% of the dataset
 - Duplicated rows, valid feature types such as dates where checked
@@ -54,6 +54,7 @@ S
   <img src="https://img.shields.io/badge/Statsmodels-1A6E9A?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels">
 
 </p>
+
 ---
 
 ## Installation
