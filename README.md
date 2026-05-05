@@ -102,17 +102,45 @@ A sample image generated in the Jupyter note is shown below:
 
 ## Analysis & Visualizations 
 
-Summarize your findings, insights, and visualizations:
+The total Sales was $1710971.47
+The Total Profit was $288920.44
 
-- Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables  ![Sales vs Profit with Regression Line](images/Sales-vs-Profit_with_Regression_Line.png) 
-- Include important observations or correlations found in the data  
+The Top 5 global sales Category were Office Supplies and Technology.
+The GBC Ibimaster 500 Manual ProClick Binding System had the highest sales at $9892.74
+Western Europe had the highest sales of $25,9576.28
+
+ ![Sales by Region](images/.png)
+ 
+The following top 4 areas wre Oceania, Southern Asia, Eastern and Southeastern Asia
+The consumer segment was the selling segment with $873512.42
+
+ ![Sales by Segment](images/.png)
+
+The data surprisingy shows that the Asia Market had the highest sales, whilst the lowerst was the US/Canada market.
+
+ ![Sales by Market](images/.png)
+
+
+ ![Sales by Category](images/.png)
+
+Relationship between Sales and Profit
+There is a positive but moderate relationship between Sales and Profit.
+The correlation value 0.533676, indicative of this.
+
+
+ ![Sales vs Profit](images/Sales-vs-Profit.png)
+
+Unsurprisingly, it confirms that as sales increase, profit tends to increase. However we can also see that there are sales which are not profitable as the sales volume increases.
+
+The plot of monthly sales over time show increased sales around the months of January, July, August and  October during the period 2012 to 2016.
+
+ ![Monthly Sales Over Time](images/Monthly_Sales_Over_Time2.png)
 
 ---
 
 ## Conclusion 
 
-- The data shows an long term upwardd trend, growth
+- The data shows an long term upward trend, growth
 - There are seasonaly aspects to the Sales data
   - **Holiday spikes** (Nov–Dec)  
   - **Back‑to‑school bumps** (Aug–Sep)  
@@ -129,7 +157,7 @@ Summarize your findings, insights, and visualizations:
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) 
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). GlobalMart is a fictional company.
 
 ---
 
