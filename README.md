@@ -112,15 +112,11 @@ Summarize your findings, insights, and visualizations:
 
 ## Conclusion 
 
-Conclusion
 - The data shows an long term upwardd trend, growth
 - There are seasonaly aspects to the Sales data
--- **Holiday spikes** (Nov–Dec)  
--- **Back‑to‑school bumps** (Aug–Sep)  
--- **Slow periods** in Jan - March (Q1) 
-
-- How could this analysis inform decision-making?  
-- Recommendations or next steps for further analysis  
+  - **Holiday spikes** (Nov–Dec)  
+  - **Back‑to‑school bumps** (Aug–Sep)  
+  - **Slow periods** in Jan - March (Q1) 
 
 ---
 
