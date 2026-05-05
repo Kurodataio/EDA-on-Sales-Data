@@ -94,26 +94,20 @@ Instructions for using the project:
 2. Run each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
 
-A sample image generated in the Jupyter note is shown below:  
-
-![Sales vs Profit with Regression Line](images/Sales-vs-Profit_with_Regression_Line.png) 
-
 ---
 
 ## Analysis & Visualizations 
 
-The total Sales was $1710971.47
-The Total Profit was $288920.44
+The total Sales was **$1710971**, the total Profit was **$288,920**
 
 The Top 5 global sales Category were Office Supplies and Technology.
 The GBC Ibimaster 500 Manual ProClick Binding System had the highest sales at $9892.74
-Western Europe had the highest sales of $25,9576.28
 
+Western Europe had the highest sales of **$25,9576**
  ![Sales by Region](images/sales_by_region.png)
  
 The following top 4 areas wre Oceania, Southern Asia, Eastern and Southeastern Asia
-The consumer segment was the selling segment with $873512.42
-
+The consumer segment was the selling segment with **$873512**
  ![Sales by Segment](images/sales_by_segment.png)
 
 The data surprisingy shows that the Asia Market had the highest sales, whilst the lowerst was the US/Canada market.
@@ -123,9 +117,9 @@ The data surprisingy shows that the Asia Market had the highest sales, whilst th
 
  ![Sales by Category](images/sales_by_category.png)
 
-Relationship between Sales and Profit
+###Relationship between Sales and Profit
 There is a positive but moderate relationship between Sales and Profit.
-The correlation value 0.533676, indicative of this.
+The correlation value **0.534**, indicative of this.
 
  ![Sales vs Profit](images/Sales-vs-Profit_with_Regression_Line.png)
 
