@@ -1,4 +1,4 @@
-# EDA-on-Sales-Data Project
+# Exploratory Data Analysis (EDA) on Retail Chain Sales Data
 
  The project is to conduct an  Exploratory Data Analysis (EDA) of GlobalMart's Retail Chain Sales Data 
 
