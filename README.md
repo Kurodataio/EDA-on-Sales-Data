@@ -94,7 +94,7 @@ Instructions for using the project:
 2. Run each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
 
-Include screenshots of your visualizations if available:  
+A sample image generated in the Jupyter note is shown below:  
 
 ![Sales vs Profit with Regression Line](images/Sales-vs-Profit_with_Regression_Line.png) 
 
