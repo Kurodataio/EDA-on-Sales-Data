@@ -100,24 +100,22 @@ Instructions for using the project:
 
 The total Sales was **$1710971**, the total Profit was **$288,920**
 
-The Top 5 global sales Category were Office Supplies and Technology.
-The GBC Ibimaster 500 Manual ProClick Binding System had the highest sales at $9892.74
+The Top global sales Category were Office Supplies and Technology.
+
+The GBC Ibimaster 500 Manual ProClick Binding System had the highest product sales at $9892.74
 
 Western Europe had the highest sales of **$25,9576**
  ![Sales by Region](images/sales_by_region.png)
  
-The following top 4 areas wre Oceania, Southern Asia, Eastern and Southeastern Asia
 The consumer segment was the selling segment with **$873512**
  ![Sales by Segment](images/sales_by_segment.png)
 
 The data surprisingy shows that the Asia Market had the highest sales, whilst the lowerst was the US/Canada market.
-
  ![Sales by Market](images/sales_by_market.png)
-
 
  ![Sales by Category](images/sales_by_category.png)
 
-###Relationship between Sales and Profit
+### Relationship between Sales and Profit
 There is a positive but moderate relationship between Sales and Profit.
 The correlation value **0.534**, indicative of this.
 
@@ -138,6 +136,7 @@ The plot of monthly sales over time show increased sales around the months of Ja
   - **Holiday spikes** (Nov–Dec)  
   - **Back‑to‑school bumps** (Aug–Sep)  
   - **Slow periods** in Jan - March (Q1) 
+- There is scope for further work to identify loss making products and regions for remedial actions
 
 ---
 
