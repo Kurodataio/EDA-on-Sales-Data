@@ -109,32 +109,31 @@ The Top 5 global sales Category were Office Supplies and Technology.
 The GBC Ibimaster 500 Manual ProClick Binding System had the highest sales at $9892.74
 Western Europe had the highest sales of $25,9576.28
 
- ![Sales by Region](images/.png)
+ ![Sales by Region](images/sales_by_region.png)
  
 The following top 4 areas wre Oceania, Southern Asia, Eastern and Southeastern Asia
 The consumer segment was the selling segment with $873512.42
 
- ![Sales by Segment](images/.png)
+ ![Sales by Segment](images/sales_by_segment.png)
 
 The data surprisingy shows that the Asia Market had the highest sales, whilst the lowerst was the US/Canada market.
 
- ![Sales by Market](images/.png)
+ ![Sales by Market](images/sales_by_market.png)
 
 
- ![Sales by Category](images/.png)
+ ![Sales by Category](images/sales_by_category.png)
 
 Relationship between Sales and Profit
 There is a positive but moderate relationship between Sales and Profit.
 The correlation value 0.533676, indicative of this.
 
-
- ![Sales vs Profit](images/Sales-vs-Profit.png)
+ ![Sales vs Profit](images/Sales-vs-Profit_with_Regression_Line.png)
 
 Unsurprisingly, it confirms that as sales increase, profit tends to increase. However we can also see that there are sales which are not profitable as the sales volume increases.
 
 The plot of monthly sales over time show increased sales around the months of January, July, August and  October during the period 2012 to 2016.
 
- ![Monthly Sales Over Time](images/Monthly_Sales_Over_Time2.png)
+ ![Monthly Sales Over Time](images/Plot_Monthly_Sales_Over_Time.png)
 
 ---
 
